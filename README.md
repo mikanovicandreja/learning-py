@@ -1,5 +1,5 @@
 # learning-py
 
-## Subheared
+## reference to course material from professor @ Faculty of Technical Sciences, Novi Sad
 
-Some more text.
+Python course introduction examples from course material. Foundation of coding in Python.
